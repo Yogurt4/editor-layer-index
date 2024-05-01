@@ -8,13 +8,13 @@
             "required": true
         },
         "name": "FÖMI orthophoto 2005",
-        "end_date": "2005",
+        "start_date": "2005-06-13",
+        "end_date": "2005-09-06",
         "url": "http://e.tile.openstreetmap.hu/ortofoto2005/{zoom}/{x}/{y}.jpg",
         "max_zoom": 17,
         "license_url": "http://e.tile.openstreetmap.hu/ortofoto2005/license.txt",
         "country_code": "HU",
         "type": "tms",
-        "start_date": "2005",
         "category": "historicphoto"
     },
     "geometry": {

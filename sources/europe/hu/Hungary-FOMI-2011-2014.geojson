@@ -1,21 +1,24 @@
 {
     "type": "Feature",
     "properties": {
-        "name": "FÖMI orthophoto 2007-2010",
-        "id": "FOMI_2007_2010",
+        "name": "FÖMI orthophoto 2011-2014 (WEBP)",
+        "id": "FOMI_2011_2014",
         "country_code": "HU",
         "attribution": {
             "url": "https://lechnerkozpont.hu/oldal/ortofotok-es-legifelvetelek",
             "text": "Lechner Tudásközpont",
             "required": true
         },
-        "start_date": "2007-07-15",
-        "end_date": "2010-08-21",
-        "url": "http://e.tile.openstreetmap.hu/ortofoto-2007-2010/{zoom}/{x}/{y}.jpg",
+        "start_date": "2011-08-11",
+        "end_date": "2014-06-10",
+        "url": "https://orto1.tile.openstreetmap.hu/fomi2011-2014/{zoom}/{x}/{y}.webp",
+        "min_zoom": 8,
         "max_zoom": 18,
         "license_url": "http://e.tile.openstreetmap.hu/ortofoto-2007-2010/license.txt",
         "type": "tms",
-        "category": "historicphoto"
+        "category": "photo",
+        "description": "Goverment-based leaf-covered orthophotos with 40 cm/pixel resolution for the entire country. This layer should be used as an alignment base in lack of a more accurate reference. WEBP format images, JOSM needs a webp plugin for them.",
+        "i18n": true
     },
     "geometry": {
         "type": "Polygon",
