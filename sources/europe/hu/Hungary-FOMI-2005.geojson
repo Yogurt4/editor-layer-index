@@ -3,8 +3,8 @@
     "properties": {
         "id": "FOMI_2005",
         "attribution": {
-            "url": "https://www.fomi.hu",
-            "text": "Földmérési és Távérzékelési Intézet",
+            "url": "https://lechnerkozpont.hu/oldal/ortofotok-es-legifelvetelek",
+            "text": "Lechner Tudásközpont",
             "required": true
         },
         "name": "FÖMI orthophoto 2005",

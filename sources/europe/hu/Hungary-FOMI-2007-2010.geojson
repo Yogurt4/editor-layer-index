@@ -5,8 +5,8 @@
         "id": "FOMI_2007_2010",
         "country_code": "HU",
         "attribution": {
-            "url": "https://www.fomi.hu",
-            "text": "Földmérési és Távérzékelési Intézet",
+            "url": "https://lechnerkozpont.hu/oldal/ortofotok-es-legifelvetelek",
+            "text": "Lechner Tudásközpont",
             "required": true
         },
         "start_date": "2007",
